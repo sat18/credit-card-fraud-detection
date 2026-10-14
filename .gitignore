@@ -1,0 +1,6 @@
+data/
+venv/
+venv312/
+venv313/
+__pycache__/
+.ipynb_checkpoints/
